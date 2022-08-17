@@ -1,0 +1,6 @@
+{
+  "_id":          "ObjectId",
+  "created":      "date",
+  "is_active":    "bool",
+  "fullname":     "string"
+}
